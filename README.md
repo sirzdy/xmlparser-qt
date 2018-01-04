@@ -1,4 +1,4 @@
-## 基于 Qt 的 xml生成工具
+## 基于 Qt 的 xml 解析与生成工具
 
 ![效果图](http://orvm1p4c8.bkt.clouddn.com/o_1c30qdi6u1pt911od1vlj1aps1aa69.png)
     
@@ -12,7 +12,7 @@
 
 1. 根据 一套 XML 生成额外的两套。满足1.0-1.5 1.0-2.0/1.5-1.0 1.5-2.0/2.0-1.0 2.0-1.5
 2. 支持  "size"  "caption"  "width"  "height"  "maxwidth"  "maxheight"  "minwidth"  "minheight"  "iconsize"  "itemsize"  "dropboxsize"  "thumbsize"  "itemminwidth"  "itemtextpadding"  "sepheight"  "sepwidth"  "inset"   "padding"  "childpadding"  "textpadding"  "sizebox"  "mininfo"  "maxinfo"  "pos"  "roundcorner"  "borderround"  "bordersize" 属性自动缩放，最小为1
-3. 支持 文件头 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+3. 支持 文件头 `<?xml version="1.0" encoding="utf-8" standalone="yes"?>`
 4. 支持文档中包含注释
 
 
@@ -28,4 +28,3 @@
 * 调整转换模式 原始倍率 目标倍率；
 * 点击执行按钮执行
 * 在下面可以看到 相关的操作信息，对于不太合理的尺寸给予提示，帮助开发者快速进行修改。
-
