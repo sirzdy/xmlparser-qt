@@ -1,6 +1,6 @@
 ## 基于 Qt 的 xml生成工具
 
-![效果图](http://orvm1p4c8.bkt.clouddn.com/o_1c2r4gld68pn1u524regut14d89.png)
+![效果图](http://orvm1p4c8.bkt.clouddn.com/o_1c30qdi6u1pt911od1vlj1aps1aa69.png)
     
 使用 QtXml 实现
 
